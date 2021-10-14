@@ -12,7 +12,8 @@ class SQRcalculateTest {
             "testOverMin,270,300,1",
             "testUnderMin,50,300,8",
             "testUnderMax,200,250,1",
-            "testOverMax,200,350,4"
+            "testOverMax,200,350,4",
+            "testNull,10,10,0"
     })
     void shoulCalculate(
             String name,
