@@ -1,5 +1,4 @@
 package ru.netology.sqr;
-import static org.junit.jupiter.api.Assertions.*;
 
 public class SQRService {
     public static void main(String[] args) {
