@@ -9,7 +9,7 @@ class SQRcalculateTest {
     @ParameterizedTest
     @CsvSource(value = {
             "positiveTest,200,300,3",
-            "testOverMin,100,300,8",
+            "testOverMin,270,300,8",
             "testUnderMin,50,300,8",
             "testUnderMax,200,250,1",
             "testOverMax,200,350,4"
